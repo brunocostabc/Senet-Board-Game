@@ -1,6 +1,6 @@
 # SENET-Board-Game 🛕🎲
 
-# ![(https://github.com/luisandrelemos/)](https://github.com/luisandrelemos/SENET-Board-Game/blob/Main-Code/Relat%C3%B3rio/SENET.png)
+# ![(https://github.com/luisandrelemos/)](https://github.com/luisandrelemos/SENET-Board-Game/blob/645ff4975d2a5a32e9211ff12e623d563a5c22a1/Relat%C3%B3rio/Senet%20Game.png)
 
 Senet is an ancient Egyptian board game that was popular during the New Kingdom period, around 1550-1077 BCE. The game consists of a board with 30 squares arranged in three rows of ten, and each player has a set of pieces that are moved along the board according to dice rolls. 🐪
 
@@ -11,3 +11,5 @@ Senet was not only a game, but also had religious and symbolic significance in a
 The rules of Senet are not completely known, as they were not written down until much later in history. However, modern interpretations of the game have been developed based on archaeological evidence and ancient texts. 🏺
 
 Despite its ancient origins, Senet has remained popular to this day, with many modern versions of the game available. This version of the game is adapted in python made by me and two other groupmates for a university project. Hope you like it! 🎲
+
+# ![(https://github.com/luisandrelemos/)](https://github.com/luisandrelemos/SENET-Board-Game/blob/Main-Code/Relat%C3%B3rio/SENET.png)
